@@ -1,0 +1,43 @@
+body {
+    background-color: #DBDBDB;
+}
+
+.main {
+    background-color: black;
+    padding: 10px;
+}
+
+.bag {
+    color: white;
+}
+
+.colbtn {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn {
+    background-color: #44c767;
+    border-radius: 42px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 21px;
+    padding: 0px 6px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #2f6627;
+}
+
+.img {
+    width: 200px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.red {
+    color: red;
+}
